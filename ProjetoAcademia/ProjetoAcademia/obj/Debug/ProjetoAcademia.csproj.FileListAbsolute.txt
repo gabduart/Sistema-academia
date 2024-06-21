@@ -1,0 +1,49 @@
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\andersonspera\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmUsuario.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csprojAssemblyReference.cache
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmUsuario.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csprojAssemblyReference.cache
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmUsuario.resources
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+E:\DS\SEGUNDO SEMESTRE\DESENVOLVIMENTO DE SISTEMAS\06-06-24\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmAluno.resources
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmAluno.resources
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmUsuario.resources
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\hdgab\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmPlano.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmAluno.resources
+C:\Users\Lab4\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.UI.frmPlano.resources
